@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Book Appointment - Valid Input</description>
+   <name>TC03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7e56fc3-d6c3-4b58-950a-edffd0809e39</testCaseGuid>
+</TestCaseEntity>

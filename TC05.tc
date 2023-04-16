@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Book Appointment - Past Date</description>
+   <name>TC05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe6d8a08-b206-44ec-bc12-7c5032fe9e0a</testCaseGuid>
+</TestCaseEntity>
